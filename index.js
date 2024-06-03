@@ -9,8 +9,7 @@ const propertyData = [
         bathrooms: 2,
         images: ['img6.jpg', 'img6.jpg', 'img6.jpg'],
         postedTime: '2024-01-06',
-        description: 'This is a beautiful house located in Colombo. It features modern amenities and a spacious layout, perfect for families. The house is close to schools, parks, and shopping centers. Don\'t miss out on this amazing opportunity to own a piece of real estate. Contact No: 
-            THIS IS A SAMPLE AD'
+        description: 'This is a beautiful house located in Colombo. It features modern amenities and a spacious layout, perfect for families. The house is close to schools, parks, and shopping centers. Don\'t miss out on this amazing opportunity to own a piece of real estate. Contact No:THIS IS A SAMPLE AD'
     }
 ];
 
