@@ -2,14 +2,14 @@
 const propertyData = [
     {
         id: 1,
-        category: 'sell-house',
-        location: 'Colombo',
-        price: 'Rs.1500000',
-        bedrooms: 3,
-        bathrooms: 2,
+        category: '',
+        location: '',
+        price: '',
+        bedrooms: ,
+        bathrooms: ,
         images: ['img6.jpg', 'img6.jpg', 'img6.jpg'],
-        postedTime: '2024-01-06',
-        description: 'This is a beautiful house located in Colombo. It features modern amenities and a spacious layout, perfect for families. The house is close to schools, parks, and shopping centers. Don\'t miss out on this amazing opportunity to own a piece of Colombo real estate. THIS IS A SAMPLE AD*'
+        postedTime: '',
+        description: ''
     }
 ];
 
